@@ -1,0 +1,17 @@
+
+@media print{
+
+
+
+	body{
+		font-size: 12;
+		
+		
+		
+	}
+
+	.displayoff{
+		display: none;
+	}
+	
+	}
